@@ -8,5 +8,5 @@ El proyecto tiene tres partes:
 - Eclipse IDE: Aquí creamos la API REST y definimos las reglas de negocio.
 - Visual Studio Code: Lo utilizamos para programar sobre las placas y poder conectarlas con la API, leyendo los datos de los sensores y activando los actuadores.
 - MIT App Inventor: Es la herramienta donde hemos hecho la aplicación Android.
-- 
+
 Este proyecto lo hicimos en la asignatura Desarrollo de Aplicaciones Distribuidas, obteniendo una calificación final de 9 sobre 10.
